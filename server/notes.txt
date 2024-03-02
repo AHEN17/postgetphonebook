@@ -1,0 +1,8 @@
+cors->cross origin resource sharing
+used to transfer data between frontend and backend,it maintains the security?santity of the data
+step 1 to create a crud application
+c->create  r->read  u->update  d->delete
+steps
+1.npm init -y   to access packet.json file
+1.Install all the packages-express,mongoose,cors[BACKEND]
+->npm i express mongoose cors
